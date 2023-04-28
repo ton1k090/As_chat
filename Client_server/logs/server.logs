@@ -1,0 +1,12 @@
+2023-04-28 07:29:02,356 INFO server.py Ожидаю подключение 
+2023-04-28 07:29:07,064 INFO server.py Получен запрос на соединение от ('127.0.0.1', 61736) 
+2023-04-28 07:29:07,064 DEBUG server.py {'actions': 'presence', 'time': 1682656147.0647194, 'user': {'account_name': 'Guest'}} 
+2023-04-28 07:29:07,064 DEBUG server.py {'actions': 'presence', 'time': 1682656147.0647194, 'user': {'account_name': 'Guest'}} 
+2023-04-28 07:29:07,064 INFO server.py Ответ клиенту {'response': 200, 'alert': 'OK'} 
+2023-04-28 07:29:07,065 DEBUG server.py Соединение с  ('127.0.0.1', 61736) закрывается. 
+2023-04-28 14:56:21,575 INFO server.py Ожидаю подключение 
+2023-04-28 14:56:28,707 INFO server.py Получен запрос на соединение от ('127.0.0.1', 54820) 
+2023-04-28 14:56:28,708 DEBUG server.py {'actions': 'presence', 'time': 1682682988.694318, 'user': {'account_name': 'Guest'}} 
+2023-04-28 14:56:28,709 DEBUG server.py {'actions': 'presence', 'time': 1682682988.694318, 'user': {'account_name': 'Guest'}} 
+2023-04-28 14:56:28,709 INFO server.py Ответ клиенту {'response': 200, 'alert': 'OK'} 
+2023-04-28 14:56:28,709 DEBUG server.py Соединение с  ('127.0.0.1', 54820) закрывается. 
