@@ -1,3 +1,10 @@
 2023-04-28 07:29:07,064 DEBUG client.py Сформировано сообщение для пользователя  
 2023-04-28 07:29:07,065 DEBUG client.py Сформировано сообщение для пользователя  
 2023-04-28 07:29:07,065 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682656147.0657165, 'user': {'account_name': 'Guest'}} 
+2023-04-28 14:56:03,197 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-04-28 14:56:21,574 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-04-28 14:56:28,694 DEBUG client.py Сформировано сообщение для пользователя  
+2023-04-28 14:56:28,694 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-04-28 14:56:28,709 DEBUG client.py Сформировано сообщение для пользователя  
+2023-04-28 14:56:28,709 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-04-28 14:56:28,709 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682682988.709276, 'user': {'account_name': 'Guest'}} 

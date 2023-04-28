@@ -5,10 +5,12 @@ import sys
 import json
 from modules.message import send_message, get_message
 import logs.server_log_config
+from decorator_log import log
 
 server_logger = logging.getLogger('server')
 
 
+@log
 def client_message(message):
     server_logger.debug(f'{message}')
     if message['user']['account_name'] == 'Guest' and message['actions'] == 'presence':
@@ -19,13 +21,14 @@ def client_message(message):
                 'alert': 'Bad request'}
 
 
+@log
 def get_params():
 
     try:
         if '-p' in sys.argv:
             listen_port = int(sys.argv[sys.argv.index('-p') + 1])
         else:
-            listen_port = 7775
+            listen_port = 7774
         if listen_port < 1024 or listen_port > 65535:
             server_logger.critical(ValueError)
     except IndexError:
@@ -55,7 +58,7 @@ def main():
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     # s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    s.bind(('127.0.0.1', 7775))
+    s.bind(('127.0.0.1', 7774))
     s.listen(5)
     server_logger.info('Ожидаю подключение')
 

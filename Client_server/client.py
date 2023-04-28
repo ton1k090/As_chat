@@ -7,11 +7,13 @@ import json
 import time
 from modules.message import get_message, send_message
 import logs.client_log_config
+from decorator_log import log
 
 
 client_logger = logging.getLogger('client')
 
 
+@log
 def presence_message(acc_name='Guest'):
     out = {
         'actions': 'presence',
