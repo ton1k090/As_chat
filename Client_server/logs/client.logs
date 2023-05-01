@@ -8,3 +8,12 @@
 2023-04-28 14:56:28,709 DEBUG client.py Сформировано сообщение для пользователя  
 2023-04-28 14:56:28,709 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
 2023-04-28 14:56:28,709 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682682988.709276, 'user': {'account_name': 'Guest'}} 
+2023-05-01 09:03:55,331 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-05-01 09:04:03,426 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 09:04:03,426 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 09:04:03,432 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 09:04:03,432 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 09:04:03,432 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682921043.4321508, 'user': {'account_name': 'Guest'}} 
+2023-05-01 09:04:09,530 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 09:04:09,530 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 09:04:19,605 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно. 
