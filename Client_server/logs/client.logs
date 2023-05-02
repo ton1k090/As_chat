@@ -17,3 +17,96 @@
 2023-05-01 09:04:09,530 DEBUG client.py Сформировано сообщение для пользователя  
 2023-05-01 09:04:09,530 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
 2023-05-01 09:04:19,605 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно. 
+2023-05-01 15:51:26,573 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:51:55,669 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:51:59,427 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:51:59,427 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:51:59,430 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:51:59,430 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 15:51:59,430 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682945519.4300632, 'user': {'account_name': 'Guest'}} 
+2023-05-01 15:51:59,432 DEBUG client.py Запущены процессы 
+2023-05-01 15:52:16,981 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:52:16,981 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:52:16,982 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:52:16,982 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 15:52:16,982 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682945536.981103, 'user': {'account_name': 'Guest'}} 
+2023-05-01 15:52:43,729 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:52:43,729 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:52:43,730 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:52:43,730 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 15:52:43,730 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682945563.7305152, 'user': {'account_name': 'Guest'}} 
+2023-05-01 15:52:43,731 DEBUG client.py Запущены процессы 
+2023-05-01 15:55:38,342 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:55:38,342 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:55:38,347 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:55:38,347 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 15:55:38,347 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682945738.3472269, 'user': {'account_name': 'Guest'}} 
+2023-05-01 15:55:38,348 DEBUG client.py Запущены процессы 
+2023-05-01 15:58:22,498 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:58:22,498 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:58:22,498 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:58:22,498 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 15:58:22,498 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682945902.4983726, 'user': {'account_name': 'Guest'}} 
+2023-05-01 15:58:22,499 DEBUG client.py Запущены процессы 
+2023-05-01 15:58:55,526 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:58:55,526 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 15:58:55,527 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 15:58:55,527 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 15:58:55,527 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682945935.5273743, 'user': {'account_name': 'Guest'}} 
+2023-05-01 15:58:55,528 DEBUG client.py Запущены процессы 
+2023-05-01 16:00:18,423 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 16:00:18,423 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 16:01:55,093 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 16:01:55,093 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 16:02:27,367 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 16:02:27,367 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 16:02:38,745 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 16:02:38,745 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 16:03:52,576 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 16:03:52,576 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-01 16:03:52,577 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-01 16:03:52,577 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-01 16:03:52,577 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1682946232.5778337, 'user': {'account_name': 'Guest'}} 
+2023-05-01 16:03:52,578 DEBUG client.py Запущены процессы 
+2023-05-02 11:12:26,744 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-05-02 11:12:30,706 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-02 11:12:30,706 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-02 11:12:30,711 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-02 11:12:30,711 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-02 11:12:30,712 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1683015150.7118218, 'user': {'account_name': 'Guest'}} 
+2023-05-02 11:12:30,713 DEBUG client.py Запущены процессы 
+2023-05-02 11:21:02,503 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-05-02 11:21:05,674 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-02 11:21:05,674 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-02 11:21:05,674 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-02 11:21:05,674 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-02 11:21:05,674 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1683015665.6742022, 'user': {'account_name': 'Guest'}} 
+2023-05-02 11:21:05,675 DEBUG client.py Запущены процессы 
+2023-05-02 11:21:34,756 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-02 11:21:34,756 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами (), {} 
+2023-05-02 11:21:34,756 DEBUG client.py Сформировано сообщение для пользователя  
+2023-05-02 11:21:34,756 DEBUG decorator_log.py Вызов функции presence_message из модуля __main__  с  параметрами ({'response': 200, 'alert': 'OK'},), {} 
+2023-05-02 11:21:34,756 INFO client.py Получен ответ от сервера {'actions': 'presence', 'time': 1683015694.756986, 'user': {'account_name': 'Guest'}} 
+2023-05-02 11:21:34,758 DEBUG client.py Запущены процессы 
+2023-05-02 12:05:14,671 DEBUG decorator_log.py Вызов функции get_params из модуля __main__  с  параметрами (), {} 
+2023-05-02 12:05:21,959 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: polo 
+2023-05-02 12:05:21,961 DEBUG client.py Сформировано presence сообщение для пользователя polo 
+2023-05-02 12:05:21,962 DEBUG decorator_log.py Вызов функции create_presence из модуля __main__  с  параметрами ('polo',), {} 
+2023-05-02 12:05:21,974 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение. 
+2023-05-02 12:06:09,319 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7773, имя пользователя: qq 
+2023-05-02 12:06:09,325 DEBUG client.py Сформировано presence сообщение для пользователя qq 
+2023-05-02 12:06:09,325 DEBUG decorator_log.py Вызов функции create_presence из модуля __main__  с  параметрами ('qq',), {} 
+2023-05-02 12:07:55,717 DEBUG decorator_log.py Вызов функции arg_parser из модуля __main__  с  параметрами (), {} 
+2023-05-02 12:07:59,614 DEBUG decorator_log.py Вызов функции arg_parser из модуля __main__  с  параметрами (), {} 
+2023-05-02 12:08:08,622 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7773, имя пользователя: polo 
+2023-05-02 12:08:08,622 DEBUG client.py Сформировано presence сообщение для пользователя polo 
+2023-05-02 12:08:08,623 DEBUG decorator_log.py Вызов функции create_presence из модуля __main__  с  параметрами ('polo',), {} 
+2023-05-02 12:21:52,925 DEBUG decorator_log.py Вызов функции arg_parser из модуля __main__  с  параметрами (), {} 
+2023-05-02 12:22:42,140 DEBUG decorator_log.py Вызов функции arg_parser из модуля __main__  с  параметрами (), {} 
+2023-05-02 12:22:46,781 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7773, имя пользователя: polo 
+2023-05-02 12:22:46,782 DEBUG client.py Сформировано presence сообщение для пользователя polo 
+2023-05-02 12:22:46,782 DEBUG decorator_log.py Вызов функции create_presence из модуля __main__  с  параметрами ('polo',), {} 
+2023-05-02 12:22:46,782 DEBUG decorator_log.py Вызов функции client_message из модуля __main__  с  параметрами ({'action': 'presence', 'time': 1683019366.7829814, 'user': {'account_name': 'polo'}}, [], <socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7773), raddr=('127.0.0.1', 61005)>, [<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7773), raddr=('127.0.0.1', 61005)>], {'polo': <socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7773), raddr=('127.0.0.1', 61005)>}), {} 
+2023-05-02 12:22:46,782 DEBUG decorator_log.py Вызов функции process_response_ans из модуля __main__  с  параметрами ({'response': 200},), {} 
+2023-05-02 12:22:46,782 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-05-02 12:22:46,783 DEBUG client.py Запущены процессы 
